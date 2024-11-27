@@ -22,7 +22,7 @@ Aqui estão as ferramentas que você vai encontrar neste repositório:
 ### 1. **Excel**
 [🔗 Link para a Pasta Excel](./Excel)
 
-Excel é uma ferramenta muito poderosa para criar dashboards interativos simples e dinâmicos. Aqui você vai aprender como usar **Tabelas Dinâmicas** e **Gráficos** para construir visualizações rápidas.
+Excel é uma ferramenta muito poderosa para criar dashboards interativos simples e dinâmicos. Aqui Utilizamos **Tabelas Dinâmicas** **Formulas de pesquisa e operações matemáticas** e **Gráficos** para construir visualizações rápidas.
 
 **Vantagens**:
 - Interface intuitiva e fácil de usar.
