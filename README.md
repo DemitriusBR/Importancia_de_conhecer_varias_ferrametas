@@ -30,7 +30,7 @@ Excel é uma ferramenta muito poderosa para criar dashboards interativos simples
 - Muitos recursos, como tabelas dinâmicas, gráficos e filtros.
 
 ### 2. **Power BI**
-[🔗 Link para a Pasta Power BI](./_PowerBI)
+[🔗 Link para a Pasta Power BI](./PowerBI)
 
 O Power BI é uma das melhores ferramentas para criar dashboards interativos e visualizações avançadas de dados. Ele permite integrar diversas fontes de dados e criar relatórios interativos.
 
