@@ -90,24 +90,3 @@ Cada ferramenta oferece uma abordagem diferente para criar visualizações. Aqui
 ## 📜 Licença
 
 Este repositório é de código aberto e pode ser utilizado para fins educacionais. Consulte o arquivo **LICENSE** para mais detalhes.
-
----
-
-### Exemplo de Estrutura de Pastas:
-```bash
-.
-├── Excel
-│   ├── Dashboard.xlsx
-│   └── Gráficos_e_Análise.xlsx
-├── PowerBI
-│   ├── Dashboard.pbix
-│   └── Relatório_Análise.pbix
-├── Python
-│   ├── dashboard.py
-│   └── gráficos.py
-├── R (Em breve)
-│   ├── shiny_dashboard.R
-│   └── gráficos.R
-└── data
-    └── dados.csv
-
