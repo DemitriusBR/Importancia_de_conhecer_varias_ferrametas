@@ -2,7 +2,8 @@
 
 Bem-vindo ao repositório de **Análise de Dados** e **Dashboards Interativos**! 🎉
 
-Aqui, você vai encontrar exemplos de **dashboards interativos** criados com **Excel**, **Power BI**, **Python** e **R** (em breve), todos usando os mesmos dados e características. A ideia é comparar como diferentes ferramentas podem ser usadas para construir visualizações interativas, e entender as vantagens de cada uma.
+Aqui, você vai encontrar exemplos de **dashboards interativos** criados com **Excel**, **Power BI**, **Python** e **R** (em breve), todos usando os mesmos dados e características. Utilizei um modelo de 'layout decorativo' mais simples para os dashboards. Pelo fato da ideia é comparar como diferentes ferramentas podem ser usadas para criar visualizações interativas e entender as vantagens de cada uma.
+
 
 ## 🚀 Objetivo do Repositório
 
