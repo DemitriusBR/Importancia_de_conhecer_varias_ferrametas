@@ -76,7 +76,7 @@ Os dashboards criados neste repositório incluem as seguintes visualizações e 
 - **Gráfico de barras** para comparar métricas.
 - **Gráfico de linhas** para mostrar tendências ao longo do tempo.
 - **Indicadores de desempenho** (KPIs) para destacar valores-chave.
-- **Filtros interativos** (disponíveis principalmente no Power BI, Python e R) para personalizar a visualização.
+- **Filtros interativos** (disponíveis principalmente no Excel, Power BI, Python e R) para personalizar a visualização.
 
 ## 🚀 Como Criar Seus Próprios Dashboards
 
